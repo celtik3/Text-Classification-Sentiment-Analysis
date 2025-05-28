@@ -6,7 +6,7 @@ This project implements a full NLP pipeline for sentiment analysis using the IMD
 
 ### Key Features
 
-- **Dataset**: IMDB movie reviews (binary sentiment)
+- **Dataset**: IMDB movie reviews (binary sentiment) from Kaggle
 - **Preprocessing**: NLTK-based tokenization, stopword removal, and lemmatization
 - **Models**:
   - Logistic Regression (baseline)
